@@ -1,4 +1,4 @@
-# HTML5 CSS3 NPM Exercise 
+# HTML5 CSS3 NPM Solution 
 
 # install
 ```
